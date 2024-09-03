@@ -1,0 +1,28 @@
+name: Update Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      mankesOnline:
+        description: 'Mankes Online value'
+        required: true
+        default: '0'
+        type: string
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update data.json
+      run: |
+        echo "{\"mankesOnline\": \"${{ github.event.inputs.mankesOnline }}\"}" > data.json
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: GitHub Actions
+        author_email: actions@github.com
+        message: 'Update data.json with latest value'
