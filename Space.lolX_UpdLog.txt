@@ -1,0 +1,27 @@
+# Release X38
+> Source code can be found at <https://no.youarenotgettingthe.src>
+
+best mod menu frfr
+
+```diff
+FIXED:
++ Anti Ban (again again again)
++ I actually cant remember its been over 15 days
+
+ADDED:
++ Kick Gun [QUEST] (it was on the menu but then i removed)
++ Black Screen Gun
++ Black Screen All [t]
++ Get Players Mods Gun
++ Better Set Guardian
++ Spaz Guardian
++ Remove Guardian
++ Set Guardian Gun
+
+REMOVED:
+- Nothing i dont think!!!!!!!!
+
+```
+> I'm always open to suggestions, feel free to put them in <#1312236808381272076>!
+> trust, i didnt take this from iis discord
+||@everyone||
