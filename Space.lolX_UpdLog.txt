@@ -17,6 +17,8 @@ ADDED:
 + Spaz Guardian
 + Remove Guardian
 + Set Guardian Gun
++ PSA
++ Aimbot
 
 REMOVED:
 - Nothing i dont think!!!!!!!!
