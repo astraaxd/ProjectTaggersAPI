@@ -1,17 +1,56 @@
-# Release X39
+# Release X40
 > Source code can be found at <https://no.youarenotgettingthe.src>
 
-Hotfix update!!!!
+holy ghost
 
 ```diff
 FIXED:
-+ Get Players Mods Gun
++ Bat and Explosion projectiles
++ Accept TOS
++ Anti Crash (made it better, and works with virtual stump shit)
 
 ADDED:
-+ Kick All Modders [Anti-Oculus-Report]
-+ Black Screen Aura
-+ Black Screen On Touch
-+ Black Screen On You Touch
++ Rainbow Snowballs
++ Rocket Snowballs
++ Bug Gun
++ Beachball Gun
++ Glider Gun
++ Spaz Bug
++ Spaz Beach Ball
++ Spaz Gliders
++ Orbit Bug
++ Orbit Beach Ball
++ Orbit Gliders
++ Freeze All
++ Glider Blind Gun
++ Glider Blind Gun
++ Hand Visualizers
++ Candy Cane Projectile
++ Box Present Projectile
++ Coal Projectile
++ Projectile-Based Stuff (i forgot what lowkey)
++ Crash Gun [QUEST]
++ Crash All [QUEST]
++ Crash Gun Attic [QUEST]
++ Crash All Attic [QUEST]
++ Kick Gun [CUSTOM MAPS]
++ Kick All [CUSTOM MAPS]
++ Crash Gun [INSTANT] [CUSTOM MAPS]
++ Crash All [INSTANT] [CUSTOM MAPS]
++ Set Gamemode To Casual
++ Set Gamemode To Infection
++ Set Gamemode To Hunt
++ Set Gamemode To Guardian
++ Set Gamemode To MODDED Casual
++ Set Gamemode To MODDED Infection
++ Set Gamemode To MODDED Hunt
++ Set Gamemode To MODDED Guardian
++ Lowercase Name
++ Better RPC Flushing
++ Better Ownership Getting
++ GameMode Category
++ Auto Reconnect On RPC Disconnect
++ More "Get User Mods Gun" Mods
 
 REMOVED:
 - Nothing i dont think!!!!!!!!
