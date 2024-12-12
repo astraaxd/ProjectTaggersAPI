@@ -1,19 +1,26 @@
-# Release X40
+# Release X41
 > Source code can be found at <https://no.youarenotgettingthe.src>
 
-holy ghost
+hotfix upd!
 
 ```diff
 FIXED:
-+ Bat and Explosion projectiles
-+ Accept TOS
-+ Anti Crash (made it better, and works with virtual stump shit)
++ Projectile Mods (Better serverside-ness, wont get banned from them, and like uh yeah!!!)
++ Backend shit!
 
 ADDED:
-+ Rainbow Snowballs
-+ Rocket Snowballs
++ Reorganized mods and others (mainly just put some inside the gamemode category)
++ Instant Tag Gun [HUNT]
++ Instant Tag All [HUNT]
++ Admins to the tracker (because cool)
++ Non kick gun (test, its the same mod tho just maybe not kickable??)
++ Get Ownership V2
++ Monster Gun
++ Spaz Monsters
++ Orbit Monsters
++ Destroy Monsters
 + Bug Gun
-+ Beachball Gun
++ Beach Ball Gun
 + Glider Gun
 + Spaz Bug
 + Spaz Beach Ball
@@ -23,34 +30,7 @@ ADDED:
 + Orbit Gliders
 + Freeze All
 + Glider Blind Gun
-+ Glider Blind Gun
-+ Hand Visualizers
-+ Candy Cane Projectile
-+ Box Present Projectile
-+ Coal Projectile
-+ Projectile-Based Stuff (i forgot what lowkey)
-+ Crash Gun [QUEST]
-+ Crash All [QUEST]
-+ Crash Gun Attic [QUEST]
-+ Crash All Attic [QUEST]
-+ Kick Gun [CUSTOM MAPS]
-+ Kick All [CUSTOM MAPS]
-+ Crash Gun [INSTANT] [CUSTOM MAPS]
-+ Crash All [INSTANT] [CUSTOM MAPS]
-+ Set Gamemode To Casual
-+ Set Gamemode To Infection
-+ Set Gamemode To Hunt
-+ Set Gamemode To Guardian
-+ Set Gamemode To MODDED Casual
-+ Set Gamemode To MODDED Infection
-+ Set Gamemode To MODDED Hunt
-+ Set Gamemode To MODDED Guardian
-+ Lowercase Name
-+ Better RPC Flushing
-+ Better Ownership Getting
-+ GameMode Category
-+ Auto Reconnect On RPC Disconnect
-+ More "Get User Mods Gun" Mods
++ Glider Blind All
 
 REMOVED:
 - Nothing i dont think!!!!!!!!
