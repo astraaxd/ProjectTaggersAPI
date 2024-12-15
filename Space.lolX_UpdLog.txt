@@ -1,18 +1,14 @@
-# Release X41.1
+# Release X41.2
 > Source code can be found at <https://no.youarenotgettingthe.src>
 
-hotfix upd!
+fixing shit
 
 ```diff
 FIXED:
-+ Menu (again, again, again, again)
-+ Not anything else i dont think!!!!
++ Menu (again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, )
 
 ADDED:
-+ Reorganized overpowered mods
-+ Simple mods that might not even work
-+ ii's Stupid Menu to the mod checker (yes, i finally found the method)
-+ Auto Clicker (too simple not to add)
++ Nothing!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 REMOVED:
 - Nothing i dont think!!!!!!!!
