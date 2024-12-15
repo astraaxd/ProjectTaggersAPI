@@ -1,36 +1,18 @@
-# Release X41
+# Release X41.1
 > Source code can be found at <https://no.youarenotgettingthe.src>
 
 hotfix upd!
 
 ```diff
 FIXED:
-+ Projectile Mods (Better serverside-ness, wont get banned from them, and like uh yeah!!!)
-+ Backend shit!
++ Menu (again, again, again, again)
++ Not anything else i dont think!!!!
 
 ADDED:
-+ Reorganized mods and others (mainly just put some inside the gamemode category)
-+ Instant Tag Gun [HUNT]
-+ Instant Tag All [HUNT]
-+ Admins to the tracker (because cool)
-+ Non kick gun (test, its the same mod tho just maybe not kickable??)
-+ Get Ownership V2
-+ Monster Gun
-+ Spaz Monsters
-+ Orbit Monsters
-+ Destroy Monsters
-+ Bug Gun
-+ Beach Ball Gun
-+ Glider Gun
-+ Spaz Bug
-+ Spaz Beach Ball
-+ Spaz Gliders
-+ Orbit Bug
-+ Orbit Beach Ball
-+ Orbit Gliders
-+ Freeze All
-+ Glider Blind Gun
-+ Glider Blind All
++ Reorganized overpowered mods
++ Simple mods that might not even work
++ ii's Stupid Menu to the mod checker (yes, i finally found the method)
++ Auto Clicker (too simple not to add)
 
 REMOVED:
 - Nothing i dont think!!!!!!!!
