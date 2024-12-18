@@ -1,14 +1,17 @@
-# Release X41.2
+# Release X42
 > Source code can be found at <https://no.youarenotgettingthe.src>
 
-fixing shit
+woah! totally cool!
 
 ```diff
 FIXED:
-+ Menu (again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, again, )
++ Platforms rigidbodies (they broke)
 
 ADDED:
-+ Nothing!!!!!!!!!!!!!!!!!!!!!!!!!!!
++ Shithead Gun [ATTIC]
++ Mirror Crasher [t] [Requires you to either have the bundle purchased or have it tried on!!!!!!!]
++ Mirror Spam [Requires you to either have the bundle purchased or have it tried on!!!!!!!]
++ Mirror Gun [Requires you to either have the bundle purchased or have it tried on!!!!!!!]
 
 REMOVED:
 - Nothing i dont think!!!!!!!!
