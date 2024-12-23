@@ -5,16 +5,11 @@ woah! totally cool!
 
 ```diff
 FIXED:
-+ Super cool shit (idk????)
++ Clicking buttons lagging the entire game
 
 ADDED:
-+ Ender Pearl
-+ A Literal Fucking Gun
-+ Snowball Launcher
-+ Custom Menu Background
-+ Basically menu revamp
-+ New button sound!!! (clicky)
-+ Better menu font
++ Something, maybe? Idk.
++ No false positive (maybe, idfk)
 
 REMOVED:
 - Nothing i dont think!!!!!!!!
