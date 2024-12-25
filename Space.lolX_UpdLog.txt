@@ -1,18 +1,18 @@
 # Release 3.3.0
 > Source code can be found at <https://no.youarenotgettingthe.src>
 
-woah! totally cool!
+happy hor hor hor hor days or something
 
 ```diff
 FIXED:
-+ Clicking buttons lagging the entire game
++ Nothing!!!! (there was nothing to fix)
 
 ADDED:
-+ Something, maybe? Idk.
-+ No false positive (maybe, idfk)
++ Newgen Detector
 
 REMOVED:
-- Nothing i dont think!!!!!!!!
+- Searching System (that i was going to add)
+- long live search system =(
 
 ```
 > I'm always open to suggestions, feel free to put them in <#1318832397638434907>!
