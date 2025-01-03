@@ -1,15 +1,17 @@
-# Release 3.5.0
+# Release 3.6.0
 > Source code can be found at <https://no.youarenotgettingthe.src>
 
-hor hor ferdy fazbuns
+uHAWDYhoiUHIioejahroijieriuhgiuwehfiauefiuwofhwieuafhawieufawefawe yguwyuwayhowagoyhuihaewhowe uhaewaw4 we
 
 ```diff
 FIXED:
 + Nothing!!!! (there was nothing to fix)
 
 ADDED:
-+ Hawk Tuah Gun (probably iis, idk it was from like 7 months ago)
-+ Sex Gun (probably iis, idk it was from like 7 months ago aswell)
++ Steal Identity Gun
++ Strobe + RGB no longer needs to be in stump
++ Kick gun (insta)
++ kick aller ()instan))
 
 REMOVED:
 - Detected-ness
