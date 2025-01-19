@@ -1,20 +1,30 @@
-# Release 3.6.0
+# Release 3.7.0
 > Source code can be found at <https://no.youarenotgettingthe.src>
 
-uHAWDYhoiUHIioejahroijieriuhgiuwehfiauefiuwofhwieuafhawieufawefawe yguwyuwayhowagoyhuihaewhowe uhaewaw4 we
+gubbler bubbler
+
+# Also, if you cant grab snowballs it is another mod in your plugins, not the menu.
 
 ```diff
 FIXED:
-+ Nothing!!!! (there was nothing to fix)
++ Projectiles
++ Anti Crash
++ Rainbow Balls
 
 ADDED:
-+ Steal Identity Gun
-+ Strobe + RGB no longer needs to be in stump
-+ Kick gun (insta)
-+ kick aller ()instan))
++ EXPERIMENTAL Kick All [master]
++ EXPERIMENTAL Kick Gun [master]
++ Goofy Ass Speed Boost
++ Minigun
++ Punch Mod Others
++ Fling Gun
++ Fling All
++ Stratosphere Gun
++ Stratosphere All
 
 REMOVED:
-- Detected-ness
+- Black Screen Mods [patched]
+- Instant Kick Mods [patched]
 
 ```
 > I'm always open to suggestions, feel free to put them in <#1318832397638434907>!
