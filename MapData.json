@@ -1,0 +1,14 @@
+{
+  "Maps": [
+    {
+      "Name": "Temple Of Apollo",
+      "Description": null,
+      "Index": "TEMPLEOFAPOLLO"
+    },
+    {
+      "Name": "Test",
+      "Description": null,
+      "Index": "test"
+    }
+  ]
+}
