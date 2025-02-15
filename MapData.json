@@ -1,6 +1,10 @@
 {
   "Maps": [
     {
+      "Name": "Beginner Block",
+      "Index": "BEGINNERBLOCK"
+    },
+    {
       "Name": "Temple Of Apollo",
       "Index": "TEMPLEOFAPOLLO"
     },
@@ -9,28 +13,24 @@
       "Index": "APOLLOMANSION"
     },
     {
-      "Name": "Alcatraz Prison",
-      "Index": "ALCATRAZPRISON"
-    },
-    {
       "Name": "MonkeVille",
       "Index": "MONKEVILLE"
     },
     {
-      "Name": "Null",
-      "Index": null
+      "Name": "ISS",
+      "Index": "ISS"
     },
     {
-      "Name": "Null",
-      "Index": null
+      "Name": "Brick Battle",
+      "Index": "BRICKBATTLE"
     },
     {
-      "Name": "Null",
-      "Index": null
+      "Name": "The End",
+      "Index": "END"
     },
     {
-      "Name": "Null",
-      "Index": null
+      "Name": "Bikini Bottom",
+      "Index": "BIKINIBOTTOM"
     },
     {
       "Name": "Null",
