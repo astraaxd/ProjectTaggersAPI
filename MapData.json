@@ -2,13 +2,19 @@
   "Maps": [
     {
       "Name": "Temple Of Apollo",
-      "Description": "The map showed in Apollos vid!!!",
       "Index": "TEMPLEOFAPOLLO"
     },
     {
       "Name": "Apollo's Mansion",
-      "Description": "The map showed in Apollos vid!!!",
-      "Index": "test"
-    }
+      "Index": "APOLLOMANSION"
+    },
+    {
+      "Name": "Alcatraz Prison",
+      "Index": "ALCATRAZPRISON"
+    },
+    {
+      "Name": "MonkeVille",
+      "Index": "MONKEVILLE"
+    },
   ]
 }
