@@ -52,5 +52,9 @@
       "Name": "New World (Minecraft)",
       "Index": "MINECRAFT_NEWWORLD"
     },
+    {
+      "Name": "Coming Soon!",
+      "Index": "UNKNOWN"
+    },
   ]
 }
