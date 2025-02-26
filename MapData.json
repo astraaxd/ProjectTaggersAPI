@@ -45,12 +45,12 @@
       "Index": "OLD_TAG"
     },
     {
-      "Name": "Coming Soon!",
-      "Index": null
+      "Name": "Capture The Flag!",
+      "Index": "CAPTURE_THE_FLAG"
     },
     {
-      "Name": "Coming Soon!",
-      "Index": null
+      "Name": "New World (Minecraft)",
+      "Index": "MINECRAFT_NEWWORLD"
     },
   ]
 }
