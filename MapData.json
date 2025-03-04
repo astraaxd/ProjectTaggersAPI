@@ -76,5 +76,9 @@
       "Name": "Lethal Lava Land",
       "Index": "LLL"
     },
+    {
+      "Name": "Betle's Room",
+      "Index": "BETLE_ROOM"
+    },
   ]
 }
