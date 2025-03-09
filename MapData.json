@@ -80,5 +80,9 @@
       "Name": "Betle's Room",
       "Index": "BETLE_ROOM"
     },
+    {
+      "Name": "Pocket Monsters",
+      "Index": "POKEMON"
+    },
   ]
 }
