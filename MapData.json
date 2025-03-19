@@ -84,5 +84,9 @@
       "Name": "Pocket Monsters",
       "Index": "POKEMON"
     },
+    {
+      "Name": "Indev (Minecraft)",
+      "Index": "INDEV"
+    },
   ]
 }
