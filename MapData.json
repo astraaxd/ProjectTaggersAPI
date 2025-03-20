@@ -88,5 +88,9 @@
       "Name": "Indev (Minecraft)",
       "Index": "INDEV"
     },
+    {
+      "Name": "Infdev (Minecraft)",
+      "Index": "INFDEV"
+    },
   ]
 }
